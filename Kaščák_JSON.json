@@ -1,0 +1,246 @@
+[
+  {
+    "book_id": 1,
+    "name": "The Color of Magic: A Discworld Novel",
+    "year_published": 2009,
+    "ISBN": "978-0062225672",
+    "pageCount": 267,
+    "format": "Kindle Edition",
+    "edition": "Kindle",
+    "publication_date": "2009-10-13",
+    "weight": 2.1,
+    "genre": {
+      "genre_name": "Fantasy",
+      "description": "Fantasy Books"
+    },
+    "language": "english",
+    "publisher": {
+      "publisherName": "Harper Paperbacks",
+      "founder": "James Harper",
+      "website": "https://www.harpercollins.com/",
+      "publisher_address": {
+        "street": "195 Broadway",
+        "postal_code": "10011",
+        "city": "New York City",
+        "country": "NY",
+        "state": "USA"
+      }
+    },
+
+    "awards": [
+      {
+        "award_name": "London Times bestseller",
+        "award_year": 2009,
+        "organization_name": "London Times",
+        "award_date": "2009-04-02"
+      }
+    ],
+    "event": {
+      "event_name": "Event 1",
+      "event_date": "2009-09-24",
+      "description": "Some description"
+    },
+    "series": {
+      "series_name": "Discworld",
+      "description": "Imagine, if you will . . . a flat world sitting on the backs of four elephants who hurtle through space balanced on a giant turtle. In truth, the Discworld is not so different from our own. Yet, at the same time, very different . . . but not so much."
+    },
+    "authors": [
+      {
+        "first_name": "Terry",
+        "last_name": "Pratchett",
+        "nationality": "british",
+        "biography": "Terry Pratchett sold his first story when he was fifteen, which earned him enough money to buy a second-hand typewriter. His first novel, a humorous fantasy entitled The Carpet People, appeared in 1971 from the publisher Colin Smythe. Terry worked for many years as a journalist and press officer, writing in his spare time and publishing a number of novels, including his first Discworld novel, The Color of Magic, in 1983. In 1987 he turned to writing full time, and has not looked back since. To date there are a total of 36 books in the Discworld series, of which four (so far) are written for children. The first of these children's books, The Amazing Maurice and His Educated Rodents, won the Carnegie Medal. A non-Discworld book, Good Omens, his 1990 collaboration with Neil Gaiman, has been a longtime bestseller, and was reissued in hardcover by William Morrow in early 2006 (it is also available as a mass market paperback (Harper Torch, 2006) and trade paperback (Harper Paperbacks, 2006).",
+        "website": "terrypratchett.com",
+        "birth_date": "1948-04-28"
+      }
+    ],
+    "reviews": [
+      {
+        "user.rating": 5,
+        "review_text": "I had this book in my wish list for several years, finally took some time this summer to read it and it was very enjoyable. It reminds me a bit of Hitchikers Guide to the Galaxy meets fantasy. I have read several others in the series and I agree with many of the reviewers, the writing and stories get better as you go along (I think this is true with most writers, I liked the Voyage of the Dawn Treader better than the first two Narnia books). But I did enjoy both The Color of Magic and The Light Fantastic enough to keep going. Mort has been my favorite so far . . .",
+        "review_date": "2021-07-01",
+        "user": {
+          "first_name": "John",
+          "last_name": "Irish",
+          "birth_date": "1964-04-20",
+          "gender": "m",
+          "age": "60",
+          "email": "jirish@gmail.com",
+          "address": {
+            "street": "Far St.",
+            "postal_code": "123 46",
+            "city": "London",
+            "country": "England",
+            "state": "UK"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "book_id": 2,
+    "name": "I Cheerfuly Refuse",
+    "year_published": 2024,
+    "ISBN": "978-0802162939",
+    "pageCount": 322,
+    "format": "Kindle Edition",
+    "publication_date": "2024-04-02",
+    "weight": 2.58,
+    "genre": {
+      "genre_name": "Action",
+      "description": "Action book"
+    },
+    "language": "english",
+    "publisher": {
+      "publisherName": "Grove Press",
+      "founder": "Barney Rosset",
+      "website": "https://groveatlantic.com/",
+      "publisher_address": {
+        "street": "154 West 14th Street, 12th Floor",
+        "postal_code": "10011",
+        "city": "New York",
+        "country": "NY",
+        "state": "USA"
+      }
+    },
+
+    "awards": [
+      {
+        "award_name": "#1 New Release in Action & Adventure Literary Fiction ",
+        "award_year": 2024,
+        "organization_name": "Amazon",
+        "award_date": "2024-04-02"
+      }
+    ],
+    "authors": [
+      {
+        "first_name": "Leif",
+        "last_name": "Enger",
+        "nationality": "american",
+        "biography": "Leif Enger grew up in Osakis, Minnesota, and worked as a reporter for Minnesota Public Radio before writing his bestselling debut novel Peace Like a River, which won the Booksense Award for Fiction and was named one of the Year's Best Books by Time Magazine and the Los Angeles Times. His second novel, So Brave, Young, and Handsome, was also a national bestseller. It was a Midwest Booksellers Honor Book, and won the High Plains Book Award for Fiction. His third novel Virgil Wander was longlisted for the Carnegie Medal for Excellence in Fiction, and was named a best book of the year by Amazon, Library Journal, Bookpage, and Chicago Public Library. He lives with his wife in Duluth, MN",
+        "website": "lenfer.com",
+        "birth_date": "1961-03-02"
+      }
+    ],
+    "reviews": [
+      {
+        "user.rating": 4.8,
+        "review_text": "DNF is my mantra when I begin a book and it isn't working for me EXCEPT when the author is your favorite and Leif Enger is my very favorite.",
+        "review_date": "2024-04-20",
+        "user": {
+          "first_name": "Deborah",
+          "last_name": "B.",
+          "birth_date": "1978-04-20",
+          "gender": "f",
+          "age": "46",
+          "email": "j.good@email.com",
+          "address": {
+            "street": "Wide St.",
+            "postal_code": "123 46",
+            "city": "London",
+            "country": "England",
+            "state": "UK"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "book_id": 3,
+    "name": "Oh, the Places You'll Go! (Classic Seuss)",
+    "year_published": 2013,
+    "ISBN": "0-679-80527-3",
+    "pageCount": 56,
+    "format": "Kindle Edition",
+    "edition": "Kindle",
+    "publication_date": "2013-09-24",
+    "weight": 1.9,
+    "genre": {
+      "genre_name": "Children's Poetry",
+      "description": "Poetry for children"
+    },
+    "language": "english",
+    "publisher": {
+      "publisherName": "Random House Books for Young Readers",
+      "founder": "Bennett Cerf",
+      "website": "www.randomhousebooks.com",
+      "publisher_address": {
+        "street": "Random House Tower, 1745 Broadway",
+        "postal_code": "10011",
+        "city": "New York City",
+        "country": "NY",
+        "state": "USA"
+      }
+    },
+
+    "awards": [
+      {
+        "award_name": "#1 New Release in Action & Adventure Literary Fiction ",
+        "award_year": 2024,
+        "organization_name": "Amazon",
+        "award_date": "2024-04-02"
+      }
+    ],
+    "event": {
+      "event_name": "Event 2",
+      "event_date": "1913-09-24",
+      "description": "Some description"
+    },
+    "series": {
+      "series_name": "Classic Seuss",
+      "description": "Classic books of Dr. Seuss"
+    },
+    "authors": [
+      {
+        "first_name": "Theodor",
+        "last_name": "Seuss",
+        "nationaity": "american",
+        "biography": "Theodor Seuss Geisel—aka Dr. Seuss—is one of the most beloved children’s book authors of all time. From The Cat in the Hat to Oh, the Places You’ll Go!, his iconic characters, stories, and art style have been a lasting influence on generations of children and adults. The books he wrote and illustrated under the name Dr. Seuss (and others that he wrote but did not illustrate, including some under the pseudonyms Theo. LeSieg and Rosetta Stone) have been translated into 45 languages. Hundreds of millions of copies have found their way into homes and hearts around the world. Dr. Seuss’s long list of awards includes Caldecott Honors, the Pulitzer Prize, and eight honorary doctorates. Works based on his original stories have won three Oscars, three Emmys, three Grammys, and a Peabody.",
+        "website": "drseuss.com",
+        "birth_date": "1904-03-02"
+      }
+    ],
+    "reviews": [
+      {
+        "user.rating": 5,
+        "review_text": "This has been my “go to” in lieu of an $8-10 card for graduates. We use it rather like an autograph book and have family and friends add a word of advice or a congratulatory comment. It is fun reading for the recipient and fun writing for the participants!",
+        "review_date": "2024-04-22",
+        "user": {
+          "first_name": "Diane",
+          "last_name": "Winter",
+          "birth_date": "1988-04-20",
+          "gender": "f",
+          "age": "36",
+          "email": "dwinter@gmail.com",
+          "address": {
+            "street": "Long St.",
+            "postal_code": "123 46",
+            "city": "London",
+            "country": "England",
+            "state": "UK"
+          }
+        }
+      },
+      {
+        "user.rating": 5,
+        "review_text": "Perfect baby shower gift.",
+        "review_date": "2024-03-09",
+        "user": {
+          "first_name": "Lucy",
+          "last_name": "Lanning",
+          "birth_date": "1994-04-20",
+          "gender": "f",
+          "age": "30",
+          "email": "lwinter@gmail.com",
+          "address": {
+            "street": "High St.",
+            "postal_code": "123 46",
+            "city": "London",
+            "country": "England",
+            "state": "UK"
+          }
+        }
+      }
+    ]
+  }
+]
